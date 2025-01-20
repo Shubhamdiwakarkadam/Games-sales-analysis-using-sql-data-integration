@@ -1,6 +1,6 @@
 # Games-sales-analysis-using-sql-data-integration
 
-# Games are games, whether indoor or outdoor.
+
 
 # Objective
 
